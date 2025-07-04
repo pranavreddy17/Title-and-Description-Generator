@@ -23,7 +23,7 @@ iface = gr.Interface(
         gr.Textbox(label="📄 Description")
     ],
     title="🎬 YouTube Title and Description Generator",
-    description="Paste your video content and get a catchy YouTube title and description using Hugging Face transformers."
+    description="Paste your video content and get a catchy YouTube title and description."
 )
 
 if __name__ == "__main__":
